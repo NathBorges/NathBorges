@@ -8,7 +8,7 @@
 [![GitHub Nathalia](https://img.shields.io/github/followers/nathborges?label=follow&style=social)](https://github.com/nathborges)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mais sobre mim  
+### Mais sobre mim  
 
 ```javascript
 const nat = {
